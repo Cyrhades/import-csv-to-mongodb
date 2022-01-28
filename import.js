@@ -12,6 +12,7 @@ require('dotenv').config();         // permet de lire les fichiers .env
 let verbose = false;    // servira à activer le mode verbeux
 let files = [];         // contiendra le nom des fichiers à importer
 let promises = [];      // contiendra les différentes promesses pour mettre fins au processus
+let separator = ',';    // permet de gérer le séparateur CSV
 
 
 /** Connexion à MongoDB **/
@@ -42,7 +43,7 @@ function importInMongoDB(file)
                 let Schema = mongoose.model(file, currentSchema); ;
                 // On lit le fichier CSV
                 fs.createReadStream(`./data/csv/${file}.csv`)
-                    .pipe(csv())
+                    .pipe(csv({separator: separator}))
                     .on('data', (row) => {
                         // prpéaration des données
                         row = prepareData(row);
@@ -89,10 +90,13 @@ function importInMongoDB(file)
 }
 
 // premiere boucle pour vérifier si le mode verbeux est activé et récupérer les noms des fichiers à importer
-process.argv.slice(2).forEach((arg) => {
-    if (arg === '-v') verbose = true; 
-    else files.push(arg);
-});
+for (let i = 2; i < process.argv.length; i++) {
+    switch(process.argv[i]) {
+        case '-v': verbose = true; break;
+        case '-s': separator = process.argv[++i]; break;
+        default: files.push(process.argv[i]);
+    }
+}
 
 // On récupére la liste des fichiers à importer
 files.forEach((file) => {

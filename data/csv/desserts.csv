@@ -1,0 +1,84 @@
+name;ingredients;nutrients.energy;nutrients.proteins;nutrients.carbohydrates;nutrients.lipids;nutrients.sugar;nutrients.dietaryFiber;nutrients.calcium;nutrients.iron;nutrients.magnesium;nutrients.zinc;nutrients.vitaminD;nutrients.vitaminE;nutrients.vitaminK1;nutrients.vitaminK2;nutrients.vitaminC;nutrients.vitaminB1;nutrients.vitaminB2;nutrients.vitaminB3;nutrients.vitaminB5;nutrients.vitaminB6;nutrients.vitaminB9;nutrients.vitaminB12;nutrients.starch;nutrients.saturatedFattyAcid;nutrients.monounsaturatedFattyAcid;nutrients.sodiumChlorideSalt;nutrients.potassium;nutrients.sodium;nutrients.solenium;image;weight;description;price
+Baba au rhum;"[""Farine "",""Sel "",""Beure"",""Miel"",""Oeuf"",""Sucre"",""Vanille"",""Zeste d’orange et de citron "",""Créme liquide "",""Rhum""]";-;2,25;36,3;9,9;29,9;0,8;24;0,7;6,7;0,23;0 0,25;0,41;1,88;-;0,82;0 0,015;0,1;0 0,1;0,26;0,016;6,37;0,14;5,4;6,42;2,42;0,22;60;87;0 20;baba-au-rhum.jpeg;250;Un gâteau gourmand et moelleux imbibé d'un sirop alcoolisé. Vous pouvez le déguster seul ou comme dans cette recette accompagné d'une crème montée à la vanille.;9
+Paris Brest;"[""Farine "",""Sel "",""Beure"",""Cacao"",""Oeuf"",""Sucre"",""Lait"",""Crème à fouetter 35 % "",""Thé d’essence de vanille "",""Cerises"",""Chocolat noir "",""Sirop au kirsch""]";-;5,44;26,1;24,9;16,2;1,2;73;0,66;23;0,54;0 0,25;2,85;3,5;-;-;0 0,015;0,22;0 0,1;0,52;0,018;67,6;0,39;8,1;13,1;8,27;0,3;160;119;0 20;paris-brest.jpg;250;Déguster notre fameux Paris Brest dont l’histoire et assez peu commune , Le Paris-Brest fut créé en 1891 par un pâtissier de la banlieue parisienne. C’est en voyant passer la course cycliste qui se déroulait entre les deux villes qu’il a imaginé ce dessert fourré de crème pralinée. La forme de l’entremets rappelle celle d’une roue de bicyclette.;9
+Forêt noire;"[""Farine "",""Sel "",""Beure"",""Cacao"",""Oeuf"",""Sucre"",""Lait"",""Crème à fouetter 35 % "",""Thé d’essence de vanille "",""Cerises"",""Chocolat noir "",""Sirop au kirsch""]";-;4,13;34,2;19;29,5;2,2;53;2,7;32;0,59;0 0,25;0,69;3,13;-;0 0,5;0,026;0,075;0 0,1;0,33;0,013;48,2;0,23;4,5;12,4;4,84;0,17;190;69;0 20;foret-noir.jpg;250;Goutez à notre Forêt noir, génoise au cacao imbibée de kirsch puis fourrée de crème chantilly et de cerises. Elle est recouverte de crème chantilly et décorée de copeaux de chocolat, un moment de dégustation intense.;9
+Mousse de mangue sur génoise;"[""Farine "",""Sel "",""Beure"",""Meringue italienne"",""Oeuf"",""sucre"",""Crème à fouetter 35 % "",""Feuilles de gélatine "",""Purée de mangue "",""Jus de citron vert ""]";-;3,87;31,6;12,2;25,1;01;42,3;0,8;10,5;0,4;0 0,5;0,7;-;-;3,1;0 0,04;0,15;0,24;0,36;0,045;26,3;0,2;6,49;6,51;3,4;0,11;97;44,5;-;mousse-de-fruits.jpg;250;Vous adorez mangues ? Offrez vous une douceur avec notre unique Mousse de mangue sur génoise !;8
+Opéra;"[""Farine "",""Sel "",""Beure"",""poudre d'amandes"",""Oeuf"",""Sucre glace"",""Extrait de café"",""Café"" ,""Chocolat noir "",""Crème liquide entière"", ""Huile de pépins de raisins""]";-;5,19;39,6;24;35,1;2,3;42;3,2;44;0,76;0 0,25;1,21;2,22;-;0 0,5;0,053;0,099;0,2;0,37;0,19;7,09;0,21;4,5;13,4;7,19;0,11;240;42;0 20;opera.jpg;250;L’opéra est un grand classique de la pâtisserie française. Il est né au milieu du 20e siècle et les maisons Dalloyau et Lenôtre en revendiquent toutes les deux la création. C’est un entremets raffiné digne d’être la douceur de vos repas !;10
+Fraisier;"[""Farine "",""Sel "",""Beure"",""Gélatine"",""Oeuf"",""Sucre"",""Gousses de vanille"",""Fécule de pomme de terre"",""Zestes d’orange bio "",""Crème liquide entière"",""Chocolat blanc"",""Fraise gariguettes"",""Jus de citrons"",""Pate d’amande"",""Pâte d’amande jaune""]";-;3,31;26,7;15,5;17,3;1,3;57,1;1;16,9;1;0 0,2;1,3;-;-;4,3;0 0,05;0,47;0 0,05;0,32;0,05;78,1;0,45;3,3;8,3;3,94;0,15;105;61,7;15,1;fraisier.jpg;250;Un fraisier aux notes contemporaines, pour sublimer ce délicieux fruit d'été. Un dessert pétillant qui fait sensation en fin de repas !;9
+Canelé;"[""Farine "",""Sel "",""Beure"",""Oeuf"",""Sucre"",""Gousses de vanille"",""Rhum brun"",""Sucre vanillé""]";-;5,31;59,4;3,7;37,6;2,6;56,9;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;20,2;2,11;0,98;0,19;-;74,4;-;Canelé.jpg;250;Pâtisseries irrésistibles ! goutez à cette croûte bien caramélisée et un intérieur moelleux.;10
+Macaron moelleux fourré à la confiture;"[""Farine "",""Sel "",""Beure"",""Oeuf"",""Sucre glace"",""Séréline au sucre et aux extraits de Stévia"",""Poudre d’amande"",""Cerises griottes""]";-;10;49,7;21,2;45,2;2,9;81;1,5;79,1;0,9;-;5,2;-;-;2,1;0 0,04;1,6;1,3;0 0,16;0,13;-;-;4,58;4,46;12,3;0,16;290;65,5;-;Macaron-confiture.jpg;250;Goutez a nos macaron moelleux fourré à la confiture , notre recette maison vous laissera sans voix !;10
+Bûche de Noël pâtissière;;-;4,2;30,7;19,7;23,7;1,3;58,3;1,6;22,7;1;-;1,5;-;-;1,1;0 0,05;0,23;0,47;0,3;0 0,05;67;0,4;2,7;-;-;0,18;157;72,8;0 3;;;;
+Brownie au chocolat, préemballé;;458;5,94;50,6;25,4;35,1;3,4;42;5;47;0,9;0 0,25;3,98;27,9;-;0 0,5;0,044;0,071;0,19;0,44;0,051;10,8;0,28;8,2;7,32;12,3;0,35;330;138;0 20;;;;
+Rocher coco ou Congolais (petit gâteau à la noix de coco);;-;4,46;53,7;24,1;47,5;7,08;18,8;1;49,1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;21,2;0,89;0,1;345;44;-;;;;
+Biscuit de Savoie;;-;5,9;56,3;0,8;-;1,5;140;0,52;12;0,07;-;-;-;-;0;0,1;0,49;0,88;0,2;0,031;3;0,06;-;0,12;0,071;1,87;93;749;-;;;;
+Quatre-quarts, fabrication artisanale;;-;5,94;46;25,6;26,8;1,1;23;0,68;9,4;0,52;0 0,25;1,02;1,54;-;48;0,026;0,16;0 0,1;0,52;0,021;23,4;0,24;17,7;15,8;6,58;0,52;94;206;0 20;;;;
+Quatre-quarts, préemballé;;-;5,94;48,2;23,9;26,4;1,1;19;0,74;10;0,51;0 0,25;0,89;2,23;-;0 0,5;0,039;0,096;0,37;0,66;0,016;9,28;0,31;17,2;15,2;5,88;1,07;92;426;0 20;;;;
+Barre pâtissière, préemballé;;-;5,38;54,7;14,9;26,8;1,4;15;0,52;10;0,37;0 0,25;3,05;18,2;-;0 0,5;0,035;0,039;0,26;0,39;0,015;10,1;0,16;21,9;1,59;8,8;1,28;140;512;0 20;;;;
+Gâteau au citron, tout type;;-;5;54;21,3;-;1;-;0,4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;16,2;8,64;7,52;0,54;170;217;-;;;;
+Far aux pruneaux;;-;5,13;32;8;21,5;3,4;71;0,45;16;0,45;0 0,25;1,15;27,5;-;0 0,5;0,031;0,19;0 0,1;0,53;0,042;34,5;0,3;8,2;4,79;2,16;0,23;230;93;0 20;;;;
+Kouign Amann;;-;5,81;48,7;25,1;20,5;2,2;20;0,49;11;0,43;0 0,25;0,64;2,58;-;0 0,5;0,05;0 0,01;0 0,1;0,3;0,027;47;0,056;24,9;16,7;5,78;0,85;86;340;0 20;;;;
+Pain d'épices;;-;2,94;71,5;1,1;38,2;3;4;1,1;14,3;0,5;-;0,57;-;-;0 0,5;0,05;0 0,04;0,34;0 0,16;0,16;-;-;28,4;0,18;0,55;0,47;91,9;189;-;;;;
+Pain d'épices fourré ou nonette;;-;4;76;2,5;44;2,5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;20,5;0,5;-;0,41;77;163;-;;;;
+Baklava ou Baklawa (pâtisserie orientale aux amandes et sirop);;-;10,4;49,2;24,5;39,6;1;98,3;1,5;95;1,12;0,18;6,55;-;-;0,4;0,062;0,3;1,2;0,16;0,18;24;0,02;9,6;4,7;13,9;0,075;255;29,8;0 5;;;;
+Corne de gazelle (pâtisserie orientale aux amandes et sirop);;-;8,55;60,2;22,1;32;1;68,2;1;44,9;0,7;-;-;-;-;-;0,096;0,19;1,05;0,36;0,14;37;-;28,2;7,78;9,88;0,15;165;59,2;0 5;;;;
+Chou à la crème (chantilly ou pâtissière);;-;4,5;25,2;22,9;16,7;0 0,5;71,6;1;9,6;1;0 0,2;1,08;-;-;0;0 0,05;0,065;0 0,05;0,37;0 0,05;51;0,61;7,5;14,5;5,94;0,28;104;110;18,4;;;;
+Chou à la crème chantilly, Saint-honoré;;-;4,63;22,9;26,4;8,9;1;71,6;1;9,2;1;0 0,2;1,4;-;-;-;0 0,05;0,08;0 0,05;0,36;0 0,05;50,8;0,65;6,9;13,6;5,82;0,37;108;149;27,2;;;;
+Chou à la crème pâtissière;;-;4,31;34,9;7,3;13,5;1;71,6;1;10;1;0 0,2;0,76;-;-;-;0 0,05;0,05;0 0,05;0,37;0 0,05;51,2;0,57;8,1;3,38;1,98;0,25;99,5;99,5;9,6;;;;
+Éclair;;-;5,78;31,6;11,8;18,9;3,9;68,4;1,18;11;0,48;1;2,01;17,5;-;0,3;0,12;0,27;0,8;0,49;0,059;14;0,34;8,2;5,49;4,58;0,23;117;92,5;12;;;;
+Tarte aux fruits et crème pâtissière;;-;2,94;30;7,7;18,7;1,3;42;0,43;11;0,25;0 0,25;1,08;5,9;-;5,42;0,053;0,33;0 0,1;0,24;0,015;20,6;0,091;10;4,8;1,96;0,26;150;104;0 20;;;;
+Tarte normande aux pommes (garniture farine, oeufs, crème, sucre, calvados);;313;4,44;38,7;15;25,8;2,5;39;0,57;16;0,39;0 0,25;1,6;1,83;-;7,05;0,028;0,063;0 0,1;0,35;0,022;22,4;0,16;12,9;8,37;4,53;0,23;180;93;0 20;;;;
+Tarte au citron;;-;5;42,7;20,9;30,1;1,8;25,2;1,2;9,7;1;0 0,2;1,1;-;-;13,4;0 0,05;0,12;0 0,05;0,36;0,05;39,9;0,35;1,8;10,7;4,12;0,13;95,8;51,6;5,8;;;;
+Tarte ou tartelette aux pommes;;-;2,52;32,7;8,79;20,7;3,3;4,5;0,55;11;0,2;0 0,5;0,7;-;-;5;0 0,04;0 0,04;0,39;0,12;0,14;16;0 0,08;12,1;4,66;3,53;0,31;149;122;0 2,2;;;;
+Tarte aux fraises;;-;3,19;31;19,8;-;1,5;53,6;0,51;18;1;0 0,2;0,94;-;-;5,1;0 0,05;0,11;0 0,05;0,31;0,05;28,9;0,39;5,7;9,04;5,17;0,14;146;57,3;22,1;;;;
+Crumble aux pommes;;-;2,19;33,8;9,5;19;1,7;8,6;0,3;7,47;0,2;0 0,5;2,05;-;-;-;0,051;0 0,04;0,3;0 0,16;0,07;16;0 0,08;9,1;6,25;2,14;0,085;75,6;34;0 5;;;;
+Tarte aux abricots;;-;3,18;41;10,7;17,4;5,9;25;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;15,7;6,43;2,67;0,22;-;89,3;-;;;;
+Tarte aux fruits rouges;;-;3,5;38,5;6,87;20,9;4,5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;13,8;3,85;1,9;0,21;-;82,5;-;;;;
+Tarte Tatin aux pommes;;-;2,31;37,1;9,3;24,9;0,7;9,4;0,33;6,7;0,19;0 0,25;0 0,08;1,2;-;0 0,5;0,03;0 0,01;0 0,1;0,18;0,023;10;0,051;9,8;5,98;2,09;0,19;100;76;0 20;;;;
+Tarte au chocolat, fabrication artisanale;;-;5,94;40,9;30,7;22,7;2,9;53;4,7;47;0,79;0 0,25;1,46;4,02;-;0;0,064;0,59;0,13;0,35;0,09;80;0,32;15,4;18,9;6,87;0,19;230;74,4;0 20;;;;
+Tarte ou tartelette aux fruits;;-;3,72;46,9;10,6;24,6;2,64;26,2;0,45;14;0,16;0,31;0,45;-;-;0,52;0,03;0,02;0,52;-;0,09;-;-;-;4,74;4,66;0,38;157;152;10;;;;
+Flan pâtissier aux oeufs ou à la parisienne;;-;3,76;29,2;11,3;18,4;0,7;72;0,35;9;0,39;0 0,25;0,38;1,16;-;0 0,5;0,027;0,59;0 0,1;0,37;0,02;33,8;0,13;10,8;7,16;2,84;0,24;120;94;0 20;;;;
+Charlotte aux fruits;;-;5,16;28,2;6,64;21,7;2,8;37,6;0,75;18,7;0,47;0,2;1,75;-;-;8,15;0 0,04;0,13;0,43;0,43;0,05;23;0,15;6,3;3,34;2,11;0,038;138;15,1;5;;;;
+Gâteau au chocolat;;-;5,74;54,6;21,6;32,2;2,42;153;1,73;33,4;0,68;0 0,5;5,4;-;-;1;0,59;0,16;0,5;0,6;0,05;78;0,2;18;5,6;10,5;0,76;184;304;10;;;;
+Gâteau moelleux au chocolat, préemballé;;-;6,19;48,2;24;33,4;2,56;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;9;7,88;10,4;0,3;-;120;-;;;;
+Gâteau au yaourt;;-;5,87;51,8;21,4;26,9;1,13;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2,23;-;0,67;-;267;-;;;;
+Gâteau au fromage blanc;;-;6,17;27;11,6;19,5;0,7;51;0,63;11;0,51;0,5;0,56;4,4;-;0,4;0,028;0,19;0,2;0,57;0,052;15;0,17;-;5,16;4,91;0,5;90;200;-;;;;
+Gâteau moelleux nature type génoise;;-;5,7;57,6;14,4;27,1;4,6;31,4;-;9,5;0,7;-;-;-;-;-;-;-;-;-;-;-;-;-;1,6;-;0,5;141;200;-;;;;
+Galette des rois feuilletée;;-;5;29,8;23,3;9,9;2,45;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;13,4;-;0,61;-;-;-;;;;
+Galette des rois feuilletée, fourrée frangipane, et Pithiviers;;-;7,6;33,4;30;15,6;2;58,7;1,1;38,1;1;-;3,3;-;-;1,3;0,06;0,1;0,23;0,35;0 0,05;28;0,56;14,6;14;8,99;0,7;169;280;0 3;;;;
+Crêpe, nature, préemballée, rayon frais;;-;6,49;40;7,21;19,1;1,9;75;0,56;14;0,52;0 0,25;1,06;2,02;-;0 0,5;0,081;0,16;0 0,1;0,77;0,03;17;0,41;18,6;6,5;0,24;0,61;140;240;0 20;;;;
+Crêpe, nature, préemballée, rayon température ambiante;;-;8,5;58,1;14,1;28,1;1,3;63;0,8;17,7;0,7;0 0,5;0,6;-;-;1;0,1;0,15;0,65;0,68;0,055;33;0,14;30,1;6,51;5,05;1,71;162;685;6;;;;
+Galette de sarrasin, nature, préemballée;;-;5,95;30,1;1,51;1,08;3,08;21,6;1,8;86,9;1,6;0 0,5;0,28;-;-;0;0,25;0,046;2,1;0,6;0,25;34,9;0,13;23,3;0,33;0,34;1,32;188;520;0 5;;;;
+Gâteau basque, crème pâtissière;;-;4,03;57,4;13,3;28,1;1;27;0,44;11;0,28;0 0,25;0,26;0 0,8;-;0 0,5;0,034;0,094;0,13;0,36;0,027;19,5;0,1;22,1;7,55;2,66;0,47;100;189;0 20;;;;
+Gâteau basque, cerises;;-;4,3;63,3;13,5;42;1,4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;9,1;-;0,43;-;170;-;;;;
+Crêpe fourrée au sucre, préemballée;;-;6,62;58,7;15,8;31;1,04;82,5;-;17,4;0,58;-;-;-;-;-;-;-;-;-;-;-;-;-;9,38;1,39;1,44;-;572;0 2,2;;;;
+Crêpe fourrée à la confiture, maison;;-;6,51;54;5,74;19,4;1;49,8;0,77;12,2;0,43;0,11;0,26;-;-;4,62;0,14;0,2;1,12;0,3;0,041;29,5;0,15;23,1;3,36;1,55;0,89;126;356;10,6;;;;
+Crêpe fourrée au chocolat ou à la pâte à tartiner chocolat et noisettes, maison;;-;8,1;54,3;14,6;20,4;2,44;72,6;2,43;35,7;0,76;0,49;1,38;-;-;0,25;0,16;0,25;1,43;0,37;0,056;31,7;0,19;23,7;7,21;5,34;0,9;223;359;11,3;;;;
+Crêpe fourrée chocolat, préemballée;;-;6,43;58,7;20,4;38,2;1,96;71;2,9;36;0,84;0 0,25;7,78;2,97;-;0 0,5;0,066;0,11;0 0,1;0,51;0,026;13,9;0,34;17,8;5,52;7,02;0,83;240;330;0 20;;;;
+Crêpe fourrée fraise, préemballée;;-;5,35;66,7;6,6;30,8;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1,02;-;400;-;;;;
+Gaufre fine fourrée au miel, préemballée;;455;4,56;67;18,3;37;1,9;17;0,91;24;0,51;0 0,25;3,25;3,77;-;0 0,5;0,026;0 0,01;0 0,1;0,26;0,023;10;0,021;21,1;8;6,3;0,77;130;308;0 20;;;;
+Gaufre bruxelloise ou liégeoise, préparation artisanale;;-;8;36,1;13,4;4,8;1,9;48;0,89;18;0,64;0,61;2,01;5,1;-;0 0,5;0,11;0,083;0,41;0,83;0 0,01;30,4;0,37;28,6;5,12;5,37;0,99;160;394;0 20;;;;
+Gaufre moelleuse (type bruxelloise ou liégeoise), nature ou sucrée, préemballée;;-;7,1;52,5;25,2;32;1,77;2,8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;11,4;-;0,82;-;323;-;;;;
+Gaufre moelleuse (type bruxelloise ou liégeoise), chocolatée, préemballée;;-;6,1;55,9;23,9;29,4;2,45;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;13,5;-;0,63;-;250;-;;;;
+Gaufre croustillante (fine ou sèche), nature ou sucrée, préemballée;;-;5,18;66,4;17,9;37,6;1,81;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;10,1;5,63;0,83;-;328;-;;;;
+Gaufre croustillante (fine ou sèche), chocolatée, préemballée;;-;6,9;70;16;39;1,6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;12;-;0,76;-;300;-;;;;
+Beignet rond moelleux, sans fourrage, saupoudré de sucre;;404;7,25;39,4;23,7;10,7;2;24;0,68;18;0,62;0 0,25;4,28;5,43;-;0;0,14;0 0,01;0 0,1;0,42;0,043;30,4;0,089;26,3;9,46;9,42;1,11;93;444;0 20;;;;
+Beignet à la confiture;;378;6,36;45,6;18,7;19,9;0,9;30,8;1,76;12,7;0,53;0;0,43;7,1;-;0;0,31;0,14;2,14;0,88;0,1;17;0,22;25,7;4,84;10,2;0,71;79;283;0 2,2;;;;
+Beignet fourré aux fruits, préemballé;;362;5,65;47,6;16;14,5;2,15;39;0,6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;6,05;7,69;0,78;-;338;-;;;;
+Beignet fourré goût chocolat, préemballé;;420;7,31;45,9;22,5;18,6;2,6;80;2;32;0,83;0 0,25;3,18;10,4;-;0 0,5;0,15;0,075;0,4;0,49;0,048;24,5;0,28;22,7;8,41;8,26;0,7;180;280;0 20;;;;
+Pâtisserie (aliment moyen);;;5,04;44;17,2;27,5;2,25;66;1,42;25,9;0,51;0,28;2,61;;;3,46;0,17;0,2;0,41;0,4;0,065;43,1;0,25;12,2;6,97;6,76;0,39;172;156;7,06;;;;
+Cake aux fruits, préemballé;;360;4,19;55,2;12,6;35,8;2,1;42;0,84;13;0,38;1,27;2,62;17,9;-;0 0,5;0,038;0,05;0,12;0,3;0,042;0 5;0,21;11,5;1,6;7,15;0,59;190;234;0 20;;;;
+Gâteau marbré, prémballé;;-;5,76;50,5;23;27,9;1,75;30;1,7;19;0,56;0 0,25;4,23;37,3;-;0 0,5;0,038;0,085;9,57;0,32;0,031;73,6;0,24;19,4;6,11;11,1;0,67;160;268;0 20;;;;
+Gâteau sablé aux fruits, préemballé;;-;5,13;63,9;16,3;39;1,9;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;13;-;0,61;-;240;-;;;;
+Gâteau moelleux aux fruits, prémballé;;-;4,61;61,6;14,8;34,2;1,97;-;-;-;-;-;3;-;-;-;0,21;-;-;-;-;30;-;19;3,11;2,15;0,85;-;356;-;;;;
+Gâteau moelleux aux fruits à coque, prémballé;;-;6,2;48,8;25,5;34,7;2,1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;12,8;9,32;0,5;-;199;-;;;;
+Gâteau moelleux fourré au chocolat ou aux pépites de chocolat ou au lait, prémballé;;-;5,31;60,7;21,7;43,7;1;31,3;2,9;39,9;0,65;0,7;4;10,6;-;1;0,14;0,21;0,63;0,67;0,07;34;0,21;17;9,88;7,94;0,51;259;205;10;;;;
+Génoise fourrée et nappée au chocolat, prémballé;;-;5,46;53,3;20,8;35;1,91;120;3,1;38;0,69;0,7;2,56;-;-;0 0,5;0,06;0,19;0,43;0,54;0,14;39,1;0,23;13,5;12,3;5,58;0,43;289;171;0 5;;;;
+Gâteau moelleux fourré aux fruits type mini-roulé ou mini-cake fourré, prémballé;;-;4,41;64,2;6,5;43,9;1,64;32,7;0,7;12,3;0,4;0,2;2,7;-;-;0 0,5;0,059;0,13;0,57;0,4;0,21;29;0,19;15,3;0,91;2,68;0,48;123;193;0 5;;;;
+Muffin, aux myrtilles ou au chocolat;;-;5,59;48,9;23,4;27,9;1,55;27,6;2;18,7;1;0 0,2;6,2;39,2;-;0,6;0 0,05;0,14;0 0,05;0,51;0 0,05;91,2;0,46;17,6;4,13;10,8;0,9;100;352;3,2;;;;
+Madeleine, pur beurre, préemballée;;-;5,6;52,6;25,5;27,4;0,8;20;0,67;11;0,48;0 0,25;0,75;2,37;-;0 0,5;0,042;0,067;0 0,1;0,52;0,035;66,5;0,47;20,6;15,7;6,55;0,69;81;275;0 20;;;;
+Madeleine au chocolat, préemballée;;-;6,06;51,5;24,9;29;1,1;36;2,1;24;0,58;0 0,25;3,89;23,2;-;-;0,046;0,079;0 0,1;0,58;0,011;37,1;0,34;16,4;7,48;11,7;0,81;160;324;0 20;;;;
+Madeleine ordinaire, préemballée;;-;5,2;53,5;25,2;23,8;1,2;19;0,59;9,8;0,39;0,33;5,36;26,1;-;0 0,5;0,054;0,053;0 0,1;0,36;0,03;66,4;0,3;21,2;2,49;15,1;0,89;83;355;0 20;;;;
+Tarte aux poires amandine;;-;4,9;37,7;14,9;21,2;2,3;37;0,57;27;0,44;0 0,25;2,07;1,07;-;0,82;0,046;0,09;0 0,1;0,24;0,032;109;0,13;11,8;7,2;5,38;0,14;140;54,1;0 20;;;;
+Gâteau aux amandes type financier;;-;9,1;44,3;27,4;34,6;2,6;54;0,01;51;0,51;0 0,25;3,75;2,09;-;0 0,5;0,03;0,11;0 0,1;0,2;0,015;27,3;0,043;8,8;13,3;9,71;0,47;180;189;0 20;;;;
+Gâteau aux amandes, préemballé;;-;5,78;60,1;17,3;37,4;2,15;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;7,37;-;0,5;-;200;-;;;;
+Mille-feuille;;-;3,88;43,7;11,3;28,8;0,24;67,4;1;14,4;1;0 0,2;0,57;-;-;-;0 0,05;0,48;0,2;0,25;0,05;14,2;0,42;13;5,27;2,92;0,42;111;168;47,2;;;;

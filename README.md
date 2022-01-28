@@ -23,10 +23,12 @@ Dans le contenu du repository un exemple est mis en exemple pour vous montrer l'
 (facultatif) Si des données ont besoins d'être modifiés, créez un fichier prepare.<NOM_FICHIER>.js. (voir exemple)
 
 
-**IMPORTANT :** Le nom du fichier sera le nom du 
+**IMPORTANT :** Le nom du fichier sera le nom de la collection
+Par défaut le séparateur de colonne dans les CSV est la virgule ','.
+Il est possible d'envoyer le parametre -s suivi du séprateur souhaité.
 
 
-> node import  <fichier1>  <fichier2> <fichierN>
+> node import  <fichier1> <fichier2> <fichierN>
 
 Exemple :
 > node import users  orders settings
@@ -34,11 +36,16 @@ Exemple :
 *Vous ne devez pas mettre l'extension dans la commande*
 
 Option : **-v** permet d'activer le mode verbeux
-> node import -v <fichier1>  <fichier2> <fichierN>
+> node import -v <fichier1> <fichier2> <fichierN>
 
 Exemple :
-> node import -v users  orders settings
+> node import -v users orders settings
 
+Option : **-s** permet de modifier le séparateur par défaut
+
+Exemples :
+> node import users 
+> node import dishes drinks desserts -s ";"
 
 
 Pour créer des fixtures au format CSV vous pouvez utiliser le site Mockaroo
