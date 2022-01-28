@@ -6,7 +6,7 @@ module.exports = mongoose.Schema({
   nutrients: {
     type: [{ 
       name: { type: String, required: true },  
-      quantity: { type: Number, required: true }
+      quantity: { type: Number, integer: false, required: true }
     }],
   },
   image: { type: String, required: false },
