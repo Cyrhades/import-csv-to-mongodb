@@ -1,0 +1,4 @@
+firstname,lastname,email,password,apiKey,address.address1,address.address2,address.zipcode,address.city,VitamineA,VitamineB,VitamineC
+titi,toto,toto@yopmail.com,123456,ABC,100 rue des mouettes,,75001,Paris,20,22,30
+titiA,totoA,toto2@yopmail.com,123456,ABC2,12 rue des ours,Batiment B,76000,ROUEN,20,22,30
+titiB,totoB,toto3@yopmail.com,123456,ABC3,25 bis rue emile zola,,75010,Paris,20,22,30
