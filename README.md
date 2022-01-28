@@ -43,7 +43,7 @@ Exemple :
 
 Option : **-s** permet de modifier le séparateur par défaut
 
-Exemples :
+Exemples d'utilisation des fichiers fournis :
 > node import users 
 > node import dishes drinks desserts -s ";"
 
