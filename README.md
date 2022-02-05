@@ -47,7 +47,9 @@ Option : **-d** permet de supprimer la collection des fichiers chargés pour l'i
 
 Exemple :
 > node import -d users orders settings
+
 > node import categories exos -d
+  
 Les collections users, orders et settings seront supprimées avant l'import
 
 
