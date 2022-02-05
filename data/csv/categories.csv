@@ -1,0 +1,7 @@
+name,description,level,parentThemeName
+HTML,Introduction à l'utilisation du HTML,1,
+Les balises,Introduction à l'utilisation des balises en HTML,1,HTML
+CSS,Introduction à l'utilisation du CSS,2
+Les attributs,Introduction à l'utilisation des attributs,1,HTML
+Javascript,Introduction à l'utilisation du Javascript,3,
+La structure,Apprentissage de la structure du code HTML,2,HTML

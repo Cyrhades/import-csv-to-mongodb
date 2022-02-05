@@ -9,8 +9,7 @@
 Vous devez également créez un fichier **.env**
 pour créer une variable d'environnement nommé **MONGODB_URI**
 **Exemple :**
-   
-
+  
      MONGODB_URI=mongodb+srv://**<username>**:**<password>**@**<cluster>**.mongodb.net/**<bdd_name>**
 
 
@@ -42,6 +41,15 @@ Exemple :
 > node import -v users orders settings
 
 Option : **-s** permet de modifier le séparateur par défaut
+
+**IMPORTANT :** Si vous utilisez l'option -d (drop collection), chaque collection correspondante à un fichier d'import sera supprimée
+Option : **-d** permet de supprimer la collection des fichiers chargés pour l'import
+
+Exemple :
+> node import -d users orders settings
+> node import categories exos -d
+Les collections users, orders et settings seront supprimées avant l'import
+
 
 Exemples d'utilisation des fichiers fournis :
 > node import users 

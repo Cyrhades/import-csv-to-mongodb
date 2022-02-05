@@ -2,10 +2,10 @@
 module.exports = (row) => {
 
     // On peut préparer des données particuliéres  
-    row.nutriments = [];
-    if(parseFloat(row.VitamineA) > 0) row.nutriments.push({name : 'VitamineA', value : row.VitamineA});
-    if(parseFloat(row.VitamineB) > 0) row.nutriments.push({name : 'VitamineB', value : row.VitamineB});
-    if(parseFloat(row.VitamineC) > 0) row.nutriments.push({name : 'VitamineC', value : row.VitamineC});
+    row.data.nutriments = [];
+    if(parseFloat(row.data.VitamineA) > 0) row.data.nutriments.push({name : 'VitamineA', value : row.data.VitamineA});
+    if(parseFloat(row.data.VitamineB) > 0) row.data.nutriments.push({name : 'VitamineB', value : row.data.VitamineB});
+    if(parseFloat(row.data.VitamineC) > 0) row.data.nutriments.push({name : 'VitamineC', value : row.data.VitamineC});
 
 
     // On doit retourner la ligne préparée
